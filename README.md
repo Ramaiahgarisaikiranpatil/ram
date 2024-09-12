@@ -25,4 +25,43 @@ Welcome to SF, where fashion transcends the ordinary and becomes an expression o
 6. Azure Role Based access Control(RBAC)
 
 7. # Problem Statement:
-8. 
+8. # Screenshot’s:
+9. # Storageaccount
+10. ![Storage account ss](./patil/Storageaccount.png)
+
+11. # Container
+12. ![container ss](./patil/container.png)
+
+13. # azureaiservices
+14. ![azureaiservices ss](./patil/azureaiservices.png)
+
+15. # azureresources
+16. ![azureresources ss](./patil/azureresources.png)
+
+17. # azurebot
+18. ![azurebot ss](./patil/azurebot.png)
+
+19. # creationoflanguage
+20. ![creationoflanguage ss](./patil/creationoflanguage.png)
+
+21. # languagestudio
+22. ![laguagestudio ss](./patil/laguagestudio.png)
+
+23. # customdeployment
+24. ![customdeployment ss](./patil/customdeployment.png)
+25. 
+26. # deployknowledgebase
+31. ![deployknowledgebase ss](./patil/deployknowledgebase.png)
+26. 
+27. # azurebot1
+28. ![azurebot1 ss](./patil/azurebot1.png)
+
+29. # testinwebchat
+30. ![testinwebchat ss](./patil/testinwebchat.png)
+
+31. # testingcode
+32. ![testingcode ss](./patil/testingcode.png)
+33. 
+34. # testingcodeinstaticwebsite
+35. ![testingcodeinstaticwebsite ss](./patil/testingcodeinstaticwebsite.png)
+
