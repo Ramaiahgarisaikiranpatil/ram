@@ -58,10 +58,14 @@ Welcome to SF, where fashion transcends the ordinary and becomes an expression o
 
 29. # testinwebchat
 30. ![testinwebchat ss](./patil/testinwebchat.png)
+31. 
+32. # code
+35. ![code ss](./patil/code.png)
 
-31. # testingcode
-32. ![testingcode ss](./patil/testingcode.png)
-33. 
-34. # testingcodeinstaticwebsite
-35. ![testingcodeinstaticwebsite ss](./patil/testingcodeinstaticwebsite.png)
+32. # testingcode
+33. ![testingcode ss](./patil/testingcode.png)
+    
+    
+38. # testingcodeinstaticwebsite
+39. ![testingcodeinstaticwebsite ss](./patil/testingcodeinstaticwebsite.png)
 
