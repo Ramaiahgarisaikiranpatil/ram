@@ -1,4 +1,4 @@
-#Title of projec
+#Title of project
 
 #Deploying static website and creating chatbot for it using azure AI resources.
 #introduction
