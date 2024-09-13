@@ -8,7 +8,7 @@ Welcome to SF, where fashion transcends the ordinary and becomes an expression o
 # Project Details
 1. Project Demo URL: https://netplay.z8.web.core.windows.net/
 2. Demo Video URL:https://youtu.be/ZmnvSiNs7uM?si=l98AEzF8DfS1yXQw
-3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
+3. GitHub Repository URL:https://github.com/Ramaiahgarisaikiranpatil/ram
 4. Industry: life style.
 
 5. # Roles and responsibilities
