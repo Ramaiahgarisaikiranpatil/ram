@@ -1,4 +1,4 @@
-#Title of project
+#Title of project.
 Deploying staticwebsite amd creating chatbot for it using azure resources
 
 #introduction
