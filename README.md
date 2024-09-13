@@ -1,6 +1,7 @@
 #Title of project
 
 #Deploying static website and creating chatbot for it using azure AI resources.
+
 #introduction
 Welcome to SF, where fashion transcends the ordinary and becomes an expression of individuality. At SF, we’re dedicated to bringing you the latest trends and timeless pieces that seamlessly blend innovation with classic style. Our curated collections are designed for those who embrace bold fashion statements and seek to redefine their wardrobe with elegance and edge. Explore our diverse range of clothing and accessories that promise to elevate your style and reflect your unique personality. Discover the future of fashion with SF and let every outfit tell your story."
 
@@ -8,7 +9,7 @@ Welcome to SF, where fashion transcends the ordinary and becomes an expression o
 1. Project Demo URL: https://netplay.z8.web.core.windows.net/
 2. Demo Video URL:https://youtu.be/ZmnvSiNs7uM?si=l98AEzF8DfS1yXQw
 3. GitHub Repository URL: https://github.com/kbjtushar/victory-vault
-4. Industry: life style
+4. Industry: life style.
 
 5. # Roles and responsibilities
 1. sai kiran patil(project management) :Manages the web development project.
