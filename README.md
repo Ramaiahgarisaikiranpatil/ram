@@ -1,7 +1,6 @@
-#Title of project
-
-Deploying static website amd creating chatbot for it using azure AI resources
-
+**#Title of projec**t
+**
+**Deploying static website and creating chatbot for it using azure AI resources.**
 #introduction
 Welcome to SF, where fashion transcends the ordinary and becomes an expression of individuality. At SF, we’re dedicated to bringing you the latest trends and timeless pieces that seamlessly blend innovation with classic style. Our curated collections are designed for those who embrace bold fashion statements and seek to redefine their wardrobe with elegance and edge. Explore our diverse range of clothing and accessories that promise to elevate your style and reflect your unique personality. Discover the future of fashion with SF and let every outfit tell your story."
 
